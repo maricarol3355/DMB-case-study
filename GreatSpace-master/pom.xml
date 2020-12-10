@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>481.greatspace</groupId>
-  <artifactId>greatspacetest</artifactId>
+  <groupId>GreatSpace-master</groupId>
+  <artifactId>GreatSpace-master</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>greatspacetest</name>
+  <name>Great Space Master</name>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
